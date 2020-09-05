@@ -240,6 +240,14 @@ p {
 
 button {
   width: 100%;
+  background: #333;
+  color: #fff;
+
+}
+
+button:hover {
+  background: #fff;
+  color: #333;
 }
 
 #contact .map, #contact .contact-form {
