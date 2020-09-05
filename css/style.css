@@ -67,15 +67,17 @@ p {
 .btn {
   display: inline-block;
   color: white;
-  background: #096aa1;
+  background: #0c4566;
   padding: 0.5rem 1.5rem;
   border: none;
-  border-radius: 20px;
+  border-radius: 5px;
   font-size: 18px;
+  cursor: pointer;
 }
 
 .btn:hover {
-  background: #084c74;
+  background: #07283b;
+  border: none;
 }
 
 .btn-dark {
