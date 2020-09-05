@@ -238,6 +238,10 @@ p {
 
 }
 
+button {
+  width: 100%;
+}
+
 #contact .map, #contact .contact-form {
   flex: 1;
 
