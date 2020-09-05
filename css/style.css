@@ -242,6 +242,11 @@ button {
   width: 100%;
   background: #333;
   color: #fff;
+  padding: 0.5rem 1.5rem;
+  border: none;
+  border-radius: 5px;
+  font-size: 18px;
+  cursor: pointer;
 
 }
 
